@@ -2,8 +2,6 @@
 * Description: Finds first 100 prime numbers that are palindrome
 * Author: Hojung An
 * Date: February 19, 2018
-* MIT License
-* Copyright (c) 2018 Hojung An
 */
 
 public class PalindromeNumber {
