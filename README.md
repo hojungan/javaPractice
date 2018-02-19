@@ -1,1 +1,1 @@
-# javaPractice
+# JAVA Practice Codes
