@@ -1,3 +1,13 @@
+/*
+Program: Displays calendar of the month.
+To run pass these commands from command line:
+javac Calendar.java
+java Calendar (month) (year)
+ex: java Calendar 5 2017
+
+Author: Hojung An
+Date: February 28, 2018*/
+
 import java.time.LocalDate;
 
 public class Calendar {
