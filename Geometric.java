@@ -1,3 +1,9 @@
+/*
+Program: Base class for geometric subclasses.
+Provides functions to set/get color, fill state, and created date
+Author: Hojung An
+Date: February 28, 2018*/
+
 import java.util.Date;
 
 public class Geometric {
