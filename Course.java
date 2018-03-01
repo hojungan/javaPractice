@@ -1,3 +1,8 @@
+/*
+Program: Create Course and add/remove student to/from the course
+Author: Hojung An
+Date: February 28th 2018*/
+
 import java.util.Arrays;
 
 public class Course {
