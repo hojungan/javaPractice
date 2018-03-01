@@ -3,6 +3,7 @@ Program: Geometric subclass.
 Can set length of each side of triangle.
 Can get area and perimeter of the triangle.
 Can use superclass's functions to set/get color, fill state and date created
+**Need Geometric.java file to run this file**
 Author: Hojung An
 Date: February 28, 2018*/
 
